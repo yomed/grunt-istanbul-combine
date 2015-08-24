@@ -1,0 +1,32 @@
+{
+  "name": "grunt-istanbul-combine",
+  "description": "Combine istanbul coverage files with grunt",
+  "version": "0.1.0",
+  "homepage": "https://github.com/yomed/grunt-istanbul-combine",
+  "author": {
+    "name": "Yoni Medoff",
+    "email": "yonimedoff@gmail.com"
+  },
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yomed/grunt-istanbul-combine"
+  },
+  "bugs": {
+    "url": "https://github.com/yomed/grunt-istanbul-combine/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/yomed/grunt-istanbul-combine/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "gruntplugin", "grunt", "istanbul", "coverage", "report", "merge", "combine"
+  ],
+  "dependencies": {
+    "istanbul-combine": "^0.3.0"
+  }
+}
